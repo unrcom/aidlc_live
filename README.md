@@ -1,6 +1,6 @@
 # AI-DLC ライブ
 
-AI-DLC（AI-Driven Development Life Cycle）で、ネコが遊べるアプリ「CATCHA!」を作っていく記録です。章（Sec）ごとに、ワークフローの各ステージでできた文書をそのまま置いています。
+AI-DLC（AI-Driven Development Life Cycle）で、ネコが遊べるアプリ「CATCHA!」を作っていく記録です。章（Sec）ごとに、ワークフローの各ステージでできた文書を要約して置いています。質問・要件・レビューの指摘などの番号は、すべて残しています。
 
 - アプリのコード：https://github.com/unrcom/catcha
 - 記事（Qiita）：[AI-DLC ライブ 0 章](https://qiita.com/unr/items/fbced0d3d1ee891b8a3a)
